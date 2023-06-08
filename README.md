@@ -8,7 +8,7 @@
   
 ### Preparação do Café <br />   
   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
-   miner/enem_2019-menores_14 </a>
+<ul><li><a href='src/preparacao.ipynb'> 
+   Café na Plantação</a>
    </li>
  </ul>
