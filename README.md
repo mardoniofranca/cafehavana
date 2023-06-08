@@ -6,7 +6,7 @@
 
 <b> Encontros & Cafés : </b>
 ### Um cafezinho para começar <br />   
-<ul><li><a href='src/analise_inicial.ipynb'
+<ul><li><a href='src/analise_inicial.ipynb'>
    Vamos para esse café</a>
    </li>
  </ul>
