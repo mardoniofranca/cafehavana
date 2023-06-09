@@ -14,13 +14,13 @@
 
 ### Primeiro Plantio <br />   
 <ul><li><a href='src/preparacao.ipynb'> 
-   Café na Plantação</a>
+   A primeira semente, o primeiro plantio</a>
    </li>
  </ul>
  
  ### Primeira Colheita <br />   
 <ul><li><a href='src/cafe_java.ipynb'> 
-   Vamos tomar um café</a>
+   Vamos ver essa colheita</a>
    </li>
  </ul>
 
