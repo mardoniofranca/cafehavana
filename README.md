@@ -3,6 +3,7 @@
 <br> Júlia Wolf
 
 ## Estudos sobre series temporais para o valor do Café.
+<img src="../img/cafe.png" style="height: 300px;"/>
 
 <b> Encontros & Cafés : </b>
 ### Um cafezinho para começar <br />   
