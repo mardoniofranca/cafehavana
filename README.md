@@ -5,7 +5,7 @@
 ## Estudos sobre series temporais para o valor do Café.
 <img src="img/cafe.png" style="height: 300px;"/>
 
-### Antes de plantar, Um cafezinho para começar <br />   
+### Um cafezinho para começar <br />   
 <ul><li><a href='src/analise_inicial.ipynb'>
    Vamos para esse café</a>
    </li>
