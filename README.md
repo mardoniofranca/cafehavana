@@ -16,3 +16,12 @@
    Café na Plantação</a>
    </li>
  </ul>
+ 
+ ### Café e Pães <br />   
+<ul><li><a href='src/cafe_java.ipynb'> 
+   Vamos tomar um café</a>
+   </li>
+ </ul>
+
+ 
+ 
