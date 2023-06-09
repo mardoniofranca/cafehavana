@@ -22,14 +22,3 @@
    Vamos ver essa colheita</a>
    </li>
  </ul>
-
-### Fermentação <br />   
-Em breve
-### Secagem <br />   
-Em breve
-### Prova <br />   
-Em breve
-### Torra <br />   
-Em breve
-### Moagem <br />   
-Em breve
