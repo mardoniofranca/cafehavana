@@ -11,13 +11,13 @@
    </li>
  </ul>
 
-### Primeiro Plantio <br />   
+### Plantio <br />   
 <ul><li><a href='src/preparacao.ipynb'> 
    A primeira semente, o primeiro plantio</a>
    </li>
  </ul>
  
- ### Primeira Colheita <br />   
+ ### Colheita <br />   
 <ul><li><a href='src/cafe_java.ipynb'> 
    Vamos ver essa colheita</a>
    </li>
