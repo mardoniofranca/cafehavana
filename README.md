@@ -9,16 +9,21 @@
 <ul><li><a href='src/analise_inicial.ipynb'>
    Vamos para esse café</a>
    </li>
+   <li><a href='src/preparacao.ipynb'> 
+   A primeira semente, o primeiro plantio</a>
+   </li>
+   <li><a href='src/cafe_java.ipynb'> 
+   Vamos ver essa colheita</a>
+   </li>
  </ul>
 
 ### Plantio <br />   
-<ul><li><a href='src/preparacao.ipynb'> 
-   A primeira semente, o primeiro plantio</a>
+<ul>
+   <li><a href='src/cafe_java.ipynb'> 
+   Café, Açúcar, Trigo e Soja - Como é a correlação destes itens no processo </a>
    </li>
  </ul>
  
  ### Colheita <br />   
-<ul><li><a href='src/cafe_java.ipynb'> 
-   Vamos ver essa colheita</a>
-   </li>
+<ul>
  </ul>
