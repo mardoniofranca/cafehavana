@@ -17,6 +17,15 @@
    </li>
  </ul>
 
+### Adubo <br />   
+<ul>
+  <li><a href='src/randow_walk/metrics.ipynb)'> 
+   um passeio pelo caminho aleatório
+   </li>
+
+</ul>
+
+
 ### Plantio <br />   
 <ul>
    <li><a href='src/cafe_java.ipynb'> 
@@ -24,6 +33,3 @@
    </li>
  </ul>
  
- ### Colheita <br />   
-<ul>
- </ul>
