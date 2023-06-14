@@ -19,8 +19,8 @@
 
 ### Adubo <br />   
 <ul>
-  <li><a href='src/randow_walk/metrics.ipynb)'> 
-   um passeio pelo caminho aleatório
+  <li><a href='src/randow_walk/metrics.ipynb'> 
+   Um passeio pelo caminho aleatório
    </li>
 
 </ul>
