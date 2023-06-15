@@ -28,7 +28,7 @@
 
 ### Plantio <br />   
 <ul>
-   <li><a href='src/src/cafes_duo.ipynb'> 
+   <li><a href='src/cafes_duo.ipynb'> 
    Café, Açúcar, Trigo e Soja - Como é a correlação destes itens no processo </a>
    </li>
  </ul>
