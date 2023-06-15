@@ -7,7 +7,7 @@
 
 ### Um cafezinho para começar <br />   
 <ul><li><a href='src/analise_inicial.ipynb'>
-   Vamos para esse café</a>
+   Vamos para esse café : análise inicial, pipeline</a>
    </li>
    <li><a href='src/preparacao.ipynb'> 
    A primeira semente, o primeiro plantio</a>
