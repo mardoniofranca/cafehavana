@@ -10,10 +10,10 @@
    Vamos para esse café : análise inicial, pipeline</a>
    </li>
    <li><a href='src/preparacao.ipynb'> 
-   A primeira semente, o primeiro plantio</a>
+   A primeira semente, o primeiro plantio: preparação dos dados - a partir de dados em formato matriz gerar um csv pandas</a>
    </li>
    <li><a href='src/cafe_java.ipynb'> 
-   Vamos ver essa colheita</a>
+   Vamos ver essa colheita : </a>
    </li>
  </ul>
 
